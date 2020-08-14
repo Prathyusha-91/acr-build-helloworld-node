@@ -30,7 +30,7 @@ This project also includes the following YAML files:
 
 ### Companion articles
 
-This project is intended for use with the following articles on [docs.microsoft.com][docs]:
+This project is intended for use with the following articles on [docs.microsoft.com][docs]:1
 
 * [Build container images in the cloud with Azure Container Registry Tasks][build-quick]
 * [Automate container image builds in the cloud when you commit source code][build-task]
